@@ -1,4 +1,4 @@
-# 🌳 Gone - One page html5 responsive portofolio template
+# ⓨ Gone - One page html5 responsive portofolio template
 
 **Gone** is a modern, responsive landing page template built with **html** **CSS** and **bootstrap** & more, ideal for **web developers**, **startups**, **SaaS portofolio**, and **portofolio portfolios**. Designed with clean UI/UX, speed, and SEO in mind.
 
