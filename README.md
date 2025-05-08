@@ -7,6 +7,8 @@
 
 ## 🖼️ Template Banner
 
+[Live Preview](https://mdyeachen.github.io/Gone/)
+
 <p align="center">
   <img src="preview/01.png" width="100%" alt="Desktop Dark Preview" />
 
