@@ -9,6 +9,9 @@
 
 <p align="center">
   <img src="preview/01.png" width="100%" alt="Desktop Dark Preview" />
+
+---
+
   <img src="preview/02.png" width="100%" alt="Desktop Light Preview" />
 </p>
 
